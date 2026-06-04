@@ -292,7 +292,7 @@ MIT — Free for personal and commercial use. See [LICENSE](LICENSE).
 ---
 
 <div align="center">
-  <sub>Built with ❤️ as a diploma project — because sensitive documents shouldn't live in the cloud.</sub>
+  <sub>Built with ❤️ — because sensitive documents shouldn't live in the cloud.</sub>
   <br/><br/>
   <strong>If you find this useful, please ⭐ the repo! It helps others discover the project.</strong>
 </div>
