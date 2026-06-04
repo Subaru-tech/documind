@@ -1,0 +1,21 @@
+INVOICE #INV-2026-001
+Date: June 4, 2026
+
+Vendor: 
+Tech Solutions Inc.
+123 Tech Lane, Silicon Valley, CA 94000
+
+Billed To:
+Acme Corp
+456 Acme Way, Business City, NY 10001
+
+Items:
+1. Web Development Services - 40 hours @ $150/hr = $6,000.00
+2. UI/UX Design - 20 hours @ $100/hr = $2,000.00
+3. Server Hosting (1 year) - 1 unit @ $500/unit = $500.00
+
+Subtotal: $8,500.00
+Tax (10%): $850.00
+Total Due: $9,350.00
+
+Please pay within 30 days.

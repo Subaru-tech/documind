@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+env/
+*.egg
+.eggs/
+
+# Backend data (never commit these)
+backend/data/
+data/chroma_db/
+data/uploads/
+*.db
+
+# Environment
+.env
+.env.local
+.env.production
+!.env.example
+
+# Frontend
+node_modules/
+frontend/dist/
+frontend/.cache/
+
+# IDE
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Docker
+.docker/
+
+# Test artifacts
+.pytest_cache/
+htmlcov/
+.coverage
