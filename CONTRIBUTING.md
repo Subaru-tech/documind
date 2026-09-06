@@ -34,7 +34,7 @@ New to the project? These are great starting points — no deep context required
 | **Add a file format** | Support `.epub`, `.html`, `.rtf` in the document processor | ⭐⭐ Medium |
 | **Improve chunking** | Tune the semantic chunker for better heading-aware splitting | ⭐⭐ Medium |
 
-Look for issues labeled [`good first issue`](https://github.com/yourusername/documind/labels/good%20first%20issue) and [`help wanted`](https://github.com/yourusername/documind/labels/help%20wanted).
+Look for issues labeled [`good first issue`](https://github.com/Subaru-tech/documind/labels/good%20first%20issue) and [`help wanted`](https://github.com/Subaru-tech/documind/labels/help%20wanted).
 
 ---
 
@@ -194,7 +194,7 @@ The more detail, the faster we can fix it.
 
 ## Questions?
 
-Open a [Discussion](https://github.com/yourusername/documind/discussions) — not an issue — for general questions about usage, architecture, or ideas.
+Open a [Discussion](https://github.com/Subaru-tech/documind/discussions) — not an issue — for general questions about usage, architecture, or ideas.
 
 ---
 
